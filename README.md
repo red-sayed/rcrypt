@@ -20,7 +20,7 @@ It's about _1088.5x - 2350.7x_ speed down, comparing to [_Sha256_](https://githu
 
 ## How to use it?
 
-All functions are in _'rcrypt.h'.
+All functions are in _'rcrypt.h'_.
 
 ```C
 //
