@@ -10,6 +10,9 @@
 #include "ResECB1536.h"
 #include "Sha256.h"
 
+// Version.
+#define REDRCRYPT_VERSION "1.0"
+
 namespace Red {
     //
     // Rcrypt -512 bits-
