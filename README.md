@@ -117,7 +117,7 @@ inline std::string * rcrypt1536_hash(std::string_view key, std::string_view str)
 ```
 
 **Tech notes:**
- * Padding is provided only for _"in"_ params. Key length(in bytes) is calculated using the formula: _`KEY_LENGTH / 8`_.
+ * Padding is provided only for _"in"_ params. Key length(in bytes) is calculated using the formula:<br/> _`KEY_LENGTH / 8`_.
  * This library is designed for small code size and simplicity, intended for cases where small binary size, low memory footprint and portability is more important than high performance.
 
 **Notes:**
