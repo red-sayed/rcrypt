@@ -1,5 +1,7 @@
 # 🔑 rcrypt [![](https://img.shields.io/apm/l/vim-mode)](https://github.com/Red-company/RES_Implementation/blob/main/LICENSE.md)
 
+> ‼️ *Patenting in process.* Don't try to steal or you'll lose your money.
+
 <img src="https://github.com/red-sayed/rcrypt/blob/main/Screenshots/rcrypt_main.png?raw=true" style="object-fit:contain;
             width:auto;
             height:520px;">
